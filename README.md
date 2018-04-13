@@ -7,10 +7,10 @@
 
 ## Contributeur
 
-LucasAlt – [lucasalt.fr](https://lucasalt.fr) – [@lucasalt@mstdn.io](https://mstdn.io/@lucasalt)
+LucasAlt – [lucasalt.fr](https://lucasalt.fr) – [@lucasalt@mstdn.io](https://mstdn.io/@lucasalt)<br>
 ThomasBnt – [thomasbnt.fr](https://thomasbnt.fr) – [@thomasbnt@mstdn.io](https://mstdn.io/@thomasbnt)
 
-Distibué sous license `Non défini`
+Distibué sous license [GNU AGPLv3](https://github.com/devcommunityfr/WebAnnonces/blob/master/LICENSE)
 
 
 ## Contribution
